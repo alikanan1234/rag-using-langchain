@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment & secrets (keep example files)
+.env
+.env.*
+!.env.example
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Caches & logs
+.cache/
+pip-wheel-metadata/
+*.log
+
+# Vector store / index artifacts (adjust as needed)
+faiss_index/
+vectorstore/
+chroma/
+*.faiss
+*.pkl
