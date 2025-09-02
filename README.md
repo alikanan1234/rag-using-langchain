@@ -5,8 +5,8 @@
 ![RAG](https://img.shields.io/badge/RAG-LangChain-orange.svg)
 [![Issues](https://img.shields.io/github/issues/ZohaibCodez/rag-using-langchain.svg)](https://github.com/ZohaibCodez/rag-using-langchain/issues)
 ![Last Commit](https://img.shields.io/github/last-commit/ZohaibCodez/rag-using-langchain)
-![GitHub Stars](https://img.shields.io/github/stars/ZohaibCodez/rag-using-langchain)
-![GitHub Forks](https://img.shields.io/github/forks/ZohaibCodez/rag-using-langchain)
+[![Stars](https://img.shields.io/github/stars/ZohaibCodez/rag-using-langchain?style=social)](https://github.com/ZohaibCodez/rag-using-langchain/stargazers)
+[![Forks](https://img.shields.io/github/forks/ZohaibCodez/rag-using-langchain?style=social)](https://github.com/ZohaibCodez/rag-using-langchain/network/members)
 
 A minimal **Retrieval-Augmented Generation (RAG)** pipeline built in Jupyter/Colab that transforms YouTube videos into an intelligent Q&A system. Extract transcripts, build vector embeddings, and chat with video content using Google's Gemini AI.
 
